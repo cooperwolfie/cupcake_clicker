@@ -26,7 +26,7 @@ function countIt() {
     }
     else {
   	// 5. Write a statement that increases the variable 'clicks' by one hudred.
-    clicks + 100;
+    clicks = clicks + 100;
 
     }
 
